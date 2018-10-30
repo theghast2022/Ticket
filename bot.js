@@ -8,7 +8,7 @@ console.log("log");
 var prefix = "$";
 
 client.on('ready', () => {
-    client.user.setActivity(".new||.close ",{type: 'WATCHING'})
+    client.user.setActivity(".ticket||.close ",{type: 'WATCHING'})
 
 });
 
